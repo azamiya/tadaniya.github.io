@@ -7,6 +7,12 @@
         "paths": [
           "*",
         ]
+      },
+      {
+        "appID": "LCGV3CDAT4.com.adawarp.anonimatter-appcenter",
+        "paths": [
+          "*",
+        ]
       }
     ]
   }
